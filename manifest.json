@@ -8,14 +8,5 @@
       "matches": ["<all_urls>"],
       "js": ["single-file-convert-jwplayer-user-script.js"]
     }
-  ],
-  "permissions": [
-    "identity",
-    "menus",
-    "contextMenus",
-    "downloads",
-    "storage",
-    "tabs",
-    "<all_urls>"
   ]
 }
